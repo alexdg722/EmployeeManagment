@@ -1,5 +1,5 @@
 # EmployeeManagment
-Employee managment system using Spring boot, Spring security, Bootstrap and Thymeleaf engine
+Employee managment system using Spring Boot, Spring Security, Bootstrap and Thymeleaf engine
 
 #Pictures
 
