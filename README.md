@@ -3,8 +3,4 @@ Employee managment system using Spring boot, Spring security, Bootstrap and Thym
 
 #Pictures
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="cvQuHGl"><a href="https://imgur.com/cvQuHGl">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
-<blockquote class="imgur-embed-pub" lang="en" data-id="3FScHak"><a href="https://imgur.com/3FScHak">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
-[img]https://i.imgur.com/TyNKPbS.png[/img]
+https://imgur.com/cvQuHGl
